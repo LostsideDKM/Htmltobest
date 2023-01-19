@@ -1,0 +1,138 @@
+Class:X Session:2022-23
+Computer Application
+
+ 
+
+ 
+
+Write the HTML code to design the web page as shown below, considering the specifications that
+
+ 
+
+ 
+
+follow. *
+Player | country |
+Tennis |
+Sania_| India
+_[Rozer [Spain|
+
+ 
+
+ 
+
+Spetification1:Table data should be align center
+Specification2:Table border should be 1px
+2. Write the HTML code to design the web page as shown below , considering the specifications
+
+that follow.
+SERIAL | CLASS
+No
+
+11%
+(2—Te
+
+  
+
+Specification1:The Colour
+
+ 
+
+Specification2:Table Content will be align Vertically
+3.Sheen
+
+ 
+ 
+
+got the project to design a CSS Page using outline -widt
+the web page
+4.Tusar wants to design
+
+ 
+
+perty Suggest her the code to
+
+ 
+
+Desig
+
+ 
+
+ithday card wit
+
+ 
+
+different text styles an
+
+ 
+
+decoration Suggest him the
+CSS Properties to be used to make his card moi
+
+   
+
+ 
+
+5, Create an external style sheet 'style.css! with th pecifications for various HTML elements
+
+<BODY>:Background colour should be aqua and fo
+
+ 
+
+   
+
+<H1>:It should be underlined and ce!
+
+  
+
+<p>sFirst line should be indented to 60
+ite the HTML
+6.Tanisha got t!
+
+  
+ 
+  
+ 
+
+ 
+
+de for link TML
+
+   
+
+ 
+
+computer project to design
+
+ 
+
+jen format and style.
+
+ 
+
+Help Tanisha to fi
+
+ 
+
+dé out the tags
+
+ 
+
+cial notes
+The title of web page should be’ Website for kd!
+The headlings "KIDS’ LEARNING ZONE" SI
+
+ 
+
+     
+
+The background colour should be ‘light green’
+The colour of the text should be blue.
+The image used should be from the file ‘main.git
+
+The link colour of the web page should be magenta, visited link should be displayed in green and an
+Active link in Red,
+Contact us via email for inquires.Create an email link to kidsclub@abc.com
+
+ 
+

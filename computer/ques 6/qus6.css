@@ -1,0 +1,21 @@
+body{
+    background-color: lightgreen;
+}
+p{
+    color: blue;
+}
+a:link {
+    color: magenta;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:active {
+    color: red;
+    background-color: transparent;
+  }
+  /* by Devansh kr maurya */

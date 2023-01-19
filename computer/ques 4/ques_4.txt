@@ -1,0 +1,7 @@
+Tushar can use many text styles and text decorations such as 
+text styles
+like:- bold,italic,underline and font face etc.
+text decorations
+like:- color,style and line to design his birthday card
+there are also many attributes to each decoration property which can be used to make the birthday's text more attractive 
+//* by Devansh kr maurya *//

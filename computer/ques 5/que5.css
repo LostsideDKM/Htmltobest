@@ -1,0 +1,16 @@
+body{
+background-color: aqua; 
+}
+*{
+    color:navy ;
+}/* I am not sure about what is forground color*/
+
+h1{
+   text-decoration: underline;
+   text-align: center; 
+}
+p#h{
+    font-size: 60px;
+    font-weight: normal;
+}
+/* by Devansh kr maurya */
